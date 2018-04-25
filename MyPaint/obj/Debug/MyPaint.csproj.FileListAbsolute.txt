@@ -1,0 +1,20 @@
+c:\users\firat\documents\visual studio 2013\Projects\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+c:\users\firat\documents\visual studio 2013\Projects\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+c:\users\firat\documents\visual studio 2013\Projects\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+c:\users\firat\documents\visual studio 2013\Projects\MyPaint\MyPaint\obj\Debug\MyPaint.csprojResolveAssemblyReference.cache
+c:\users\firat\documents\visual studio 2013\Projects\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+c:\users\firat\documents\visual studio 2013\Projects\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+c:\users\firat\documents\visual studio 2013\Projects\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+c:\users\firat\documents\visual studio 2013\Projects\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
+c:\users\firat\documents\visual studio 2013\Projects\MyPaint\MyPaint\obj\Debug\MyPaint.MyPaint.resources
+C:\Users\FIRAT\Documents\Visual Studio 2013\Projects\MyPaint\MyPaint\obj\Debug\MyPaint.Hakkimizda.resources
+C:\Users\FIRAT\Desktop\2. Sınıf 2. Dönem\Paint Uygulamaları\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\FIRAT\Desktop\2. Sınıf 2. Dönem\Paint Uygulamaları\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\FIRAT\Desktop\2. Sınıf 2. Dönem\Paint Uygulamaları\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
+C:\Users\FIRAT\Desktop\2. Sınıf 2. Dönem\Paint Uygulamaları\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+C:\Users\FIRAT\Desktop\2. Sınıf 2. Dönem\Paint Uygulamaları\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+C:\Users\FIRAT\Desktop\2. Sınıf 2. Dönem\Paint Uygulamaları\MyPaint\MyPaint\obj\Debug\MyPaint.csprojResolveAssemblyReference.cache
+C:\Users\FIRAT\Desktop\2. Sınıf 2. Dönem\Paint Uygulamaları\MyPaint\MyPaint\obj\Debug\MyPaint.MyPaint.resources
+C:\Users\FIRAT\Desktop\2. Sınıf 2. Dönem\Paint Uygulamaları\MyPaint\MyPaint\obj\Debug\MyPaint.Hakkimizda.resources
+C:\Users\FIRAT\Desktop\2. Sınıf 2. Dönem\Paint Uygulamaları\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+C:\Users\FIRAT\Desktop\2. Sınıf 2. Dönem\Paint Uygulamaları\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
